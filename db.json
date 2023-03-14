@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "canciones": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "title": "UNO"
+    },
+    {
+      "id": 2,
+      "title": "DOS"
+    },
+    {
+      "id": 3,
+      "title": "TRES"
+    }    
+  ]
 }
